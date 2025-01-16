@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DocumentXProject Id="aa2fb197-148a-4f67-adb7-b47512c2e8df" Version="2018.1">
   <Features />
-  <SeparateFiles>true</SeparateFiles>
+  <SeparateFiles>false</SeparateFiles>
   <Flags>
     <Flag Id="{46CEF21D-3301-4517-A875-A0906828390E}" HighlightColor="#FFA1FFD0">Exclude from Online</Flag>
     <Flag Id="{4AAE0FD4-7313-4FEE-A25F-0785B885F736}" HighlightColor="#FFFFFFA1">Exclude from Booklet</Flag>
