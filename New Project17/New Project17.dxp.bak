@@ -28,10 +28,6 @@
   </XsdProjectPlugin>
   <GlossaryProjectPlugin>
     <IsGlossaryOutputEnabled>true</IsGlossaryOutputEnabled>
-    <Glossary>
-      <GlossaryItems />
-      <Title />
-    </Glossary>
   </GlossaryProjectPlugin>
   <WebServiceProjectPlugin>
     <WebServices />
@@ -45,24 +41,9 @@
     <DefaultCaptureDirectory></DefaultCaptureDirectory>
   </OtherFilesProjectPlugin>
   <SourceControlProjectPlugin />
-  <TasksProjectPlugin>
-    <Tasks>
-      <TaskItems />
-    </Tasks>
-  </TasksProjectPlugin>
+  <TasksProjectPlugin />
   <BookletsProjectPlugin />
-  <TableOfContents>
-    <TocLayout Id="c7552482-a1ae-44a2-a9fc-c757d62b5073">
-      <Name />
-      <Description />
-      <RootNodes>
-        <TocNode IncludeUncategorized="true" Name="" Id="e262289c-f5b3-4783-9451-c2df074be115" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="ALLTOPICS">
-          <CaptionTemplate />
-          <ChildNodes />
-        </TocNode>
-      </RootNodes>
-    </TocLayout>
-  </TableOfContents>
+  <TableOfContents />
   <TopicsProjectPlugin>
     <TopicCategories>
       <TopicCategory Id="-" AutoIndex="false">
