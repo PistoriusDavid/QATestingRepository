@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DocumentXProject Id="aa2fb197-148a-4f67-adb7-b47512c2e8df" Version="2018.1">
   <Features />
-  <SeparateFiles>false</SeparateFiles>
+  <SeparateFiles>true</SeparateFiles>
   <Flags>
     <Flag Id="{46CEF21D-3301-4517-A875-A0906828390E}" HighlightColor="#FFA1FFD0">Exclude from Online</Flag>
     <Flag Id="{4AAE0FD4-7313-4FEE-A25F-0785B885F736}" HighlightColor="#FFFFFFA1">Exclude from Booklet</Flag>
@@ -28,10 +28,6 @@
   </XsdProjectPlugin>
   <GlossaryProjectPlugin>
     <IsGlossaryOutputEnabled>true</IsGlossaryOutputEnabled>
-    <Glossary>
-      <GlossaryItems />
-      <Title />
-    </Glossary>
   </GlossaryProjectPlugin>
   <WebServiceProjectPlugin>
     <WebServices />
@@ -45,28 +41,18 @@
     <DefaultCaptureDirectory></DefaultCaptureDirectory>
   </OtherFilesProjectPlugin>
   <SourceControlProjectPlugin />
-  <TasksProjectPlugin>
-    <Tasks>
-      <TaskItems />
-    </Tasks>
-  </TasksProjectPlugin>
+  <TasksProjectPlugin />
   <BookletsProjectPlugin />
-  <TableOfContents>
-    <TocLayout Id="c7552482-a1ae-44a2-a9fc-c757d62b5073">
-      <Name />
-      <Description />
-      <RootNodes>
-        <TocNode IncludeUncategorized="true" Name="" Id="e262289c-f5b3-4783-9451-c2df074be115" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="ALLTOPICS">
-          <CaptionTemplate />
-          <ChildNodes />
-        </TocNode>
-      </RootNodes>
-    </TocLayout>
-  </TableOfContents>
+  <TableOfContents />
   <TopicsProjectPlugin>
     <TopicCategories>
       <TopicCategory Id="-" AutoIndex="false">
         <Caption m="2009-09-11T10:57:19.7639331Z">(Un-categorized)</Caption>
+        <ChildTopicCategories />
+        <Topics />
+      </TopicCategory>
+      <TopicCategory Id="CONTENTSNIPPETS" AutoIndex="false">
+        <Caption m="2025-01-16T12:30:11.3543876Z">Content Snippets</Caption>
         <ChildTopicCategories />
         <Topics />
       </TopicCategory>
@@ -474,7 +460,7 @@
         <IsHelp3SigningEnabled>false</IsHelp3SigningEnabled>
         <IsHelp3ValidationEnabled>false</IsHelp3ValidationEnabled>
         <IsHelp3KeywordsEnabled>false</IsHelp3KeywordsEnabled>
-        <BrowserHelpTemplateName></BrowserHelpTemplateName>
+        <BrowserHelpTemplateName>Classic</BrowserHelpTemplateName>
         <IsCustomHtmlHelpWindowSettings>false</IsCustomHtmlHelpWindowSettings>
         <CustomHtmlHelpWindowSettings>
           <IsExpandVisible>true</IsExpandVisible>
