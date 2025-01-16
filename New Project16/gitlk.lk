@@ -1,1 +1,42 @@
-{}
+{
+  "\\New Project16.dxp": {
+    "O": "DPISTORIUS-LT01",
+    "D": "2025-01-16T12:41:55.792252Z",
+    "B": "main"
+  },
+  "\\New Project16.af-ZA.dxl": {
+    "O": "DPISTORIUS-LT01",
+    "D": "2025-01-16T12:41:55.798394Z",
+    "B": "main"
+  },
+  "\\projectdata\\glossary.xml": {
+    "O": "DPISTORIUS-LT01",
+    "D": "2025-01-16T12:41:55.798394Z",
+    "B": "main"
+  },
+  "\\projectdata\\glossary.af-ZA.xml": {
+    "O": "DPISTORIUS-LT01",
+    "D": "2025-01-16T12:41:55.798394Z",
+    "B": "main"
+  },
+  "\\stylesheets\\customstyles.css": {
+    "O": "DPISTORIUS-LT01",
+    "D": "2025-01-16T12:41:55.798394Z",
+    "B": "main"
+  },
+  "\\projectdata\\tasks.xml": {
+    "O": "DPISTORIUS-LT01",
+    "D": "2025-01-16T12:41:55.798394Z",
+    "B": "main"
+  },
+  "\\projectdata\\tableofcontents.xml": {
+    "O": "DPISTORIUS-LT01",
+    "D": "2025-01-16T12:41:55.798394Z",
+    "B": "main"
+  },
+  "\\projectdata\\tableofcontents.af-ZA.xml": {
+    "O": "DPISTORIUS-LT01",
+    "D": "2025-01-16T12:41:55.798394Z",
+    "B": "main"
+  }
+}
