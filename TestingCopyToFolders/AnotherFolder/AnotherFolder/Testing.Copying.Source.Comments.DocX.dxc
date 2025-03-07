@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentFile Version="2010" Moniker="..\..\..\..\..\repos\Testing.Copying.Source.Comments.DocX.dll" DocType="DX.NET" IsLocalizationDisabled="false">
+  <RelatedProject>TestingCopyComments.dxp</RelatedProject>
+  <State>
+    <Attributes>
+      <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
+    </Attributes>
+  </State>
+  <LastSelectedItem>Testing.Copying.Source.Comments.DocX~Testing.Copying.Source.Comments.DocX.TestingClass~SetValue</LastSelectedItem>
+  <ModifiedOn>2025-03-07T09:49:05.0753972+00:00</ModifiedOn>
+  <ModifiedBy>ORBIS\dpistorius</ModifiedBy>
+  <item qn="Testing.Copying.Source.Comments.DocX~Testing.Copying.Source.Comments.DocX.TestingClass~SetValue">
+    <content_from cref="Testing.Copying.source.Comments.DocX.Another.ClassLibrary~Testing.Copying.source.Comments.DocX.Another.ClassLibrary.TestingClass~SetValue" ChangeDateTime="2025-03-07T09:20:00.1956533Z" id="4e598440-950b-4e64-b8ba-bb0b7908b8ca" filter="" />
+  </item>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+    <DX.NETCONTENTSTOREFILTER>
+      <ShowProtectedMembers>true</ShowProtectedMembers>
+      <ShowProtectedFriendMembers>true</ShowProtectedFriendMembers>
+      <ShowFriendMembers>false</ShowFriendMembers>
+      <ShowPrivateMembers>false</ShowPrivateMembers>
+      <ShowInheritedMembers>false</ShowInheritedMembers>
+      <IsSourceCodeContentVisible>true</IsSourceCodeContentVisible>
+    </DX.NETCONTENTSTOREFILTER>
+  </Filters>
+</ContentFile>

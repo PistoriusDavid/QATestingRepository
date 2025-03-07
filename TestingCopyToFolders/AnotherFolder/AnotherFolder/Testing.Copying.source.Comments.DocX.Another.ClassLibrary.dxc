@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentFile Version="2010" Moniker="..\..\..\..\..\repos\Testing.Copying.source.Comments.DocX.Another.ClassLibrary.dll" DocType="DX.NET" IsLocalizationDisabled="false">
+  <RelatedProject>TestingCopyComments.dxp</RelatedProject>
+  <State>
+    <Attributes />
+  </State>
+  <LastSelectedItem>Testing.Copying.source.Comments.DocX.Another.ClassLibrary~Testing.Copying.source.Comments.DocX.Another.ClassLibrary.TestingClass~SetValue</LastSelectedItem>
+  <ModifiedOn>2025-03-07T09:49:05.0613938+00:00</ModifiedOn>
+  <ModifiedBy>ORBIS\dpistorius</ModifiedBy>
+  <item qn="Testing.Copying.source.Comments.DocX.Another.ClassLibrary~Testing.Copying.source.Comments.DocX.Another.ClassLibrary.TestingClass~SetValue">
+    <summary ChangeDateTime="2025-03-07T09:19:24.6102592Z">The SetValue Method</summary>
+  </item>
+  <item qn="Testing.Copying.source.Comments.DocX.Another.ClassLibrary~Testing.Copying.source.Comments.DocX.Another.ClassLibrary.TestingClass~SetValue()">
+    <summary ChangeDateTime="2025-03-07T09:19:24.6142555Z">Default Method</summary>
+  </item>
+  <item qn="Testing.Copying.source.Comments.DocX.Another.ClassLibrary~Testing.Copying.source.Comments.DocX.Another.ClassLibrary.TestingClass~SetValue(Boolean)">
+    <summary ChangeDateTime="2025-03-07T09:19:24.6152543Z">Boolean overload method</summary>
+  </item>
+  <item qn="Testing.Copying.source.Comments.DocX.Another.ClassLibrary~Testing.Copying.source.Comments.DocX.Another.ClassLibrary.TestingClass~SetValue(String)">
+    <summary ChangeDateTime="2025-03-07T09:19:24.6162543Z">String overload method</summary>
+  </item>
+  <item qn="Testing.Copying.source.Comments.DocX.Another.ClassLibrary~Testing.Copying.source.Comments.DocX.Another.ClassLibrary.TestingClass~SetValue(Int32)">
+    <summary ChangeDateTime="2025-03-07T09:19:24.6182723Z">Integer overload method</summary>
+  </item>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+    <DX.NETCONTENTSTOREFILTER>
+      <ShowProtectedMembers>true</ShowProtectedMembers>
+      <ShowProtectedFriendMembers>true</ShowProtectedFriendMembers>
+      <ShowFriendMembers>false</ShowFriendMembers>
+      <ShowPrivateMembers>false</ShowPrivateMembers>
+      <ShowInheritedMembers>false</ShowInheritedMembers>
+      <IsSourceCodeContentVisible>true</IsSourceCodeContentVisible>
+    </DX.NETCONTENTSTOREFILTER>
+  </Filters>
+</ContentFile>
