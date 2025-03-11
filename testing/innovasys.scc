@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceControlConnection>
+  <Provider>GIT</Provider>
+  <RemoteMoniker>../$/</RemoteMoniker>
+  <ProviderProperties>
+    <Branch>TestingCheckoutForEdit</Branch>
+    <ServerUrl>https://github.com/PistoriusDavid/QATestingRepository</ServerUrl>
+    <RepositoryFolder>E:\Testing3</RepositoryFolder>
+    <RepositoryDirectoryInfo>E:\Testing3</RepositoryDirectoryInfo>
+    <AuthorEmail>dpistorius@contiem.com</AuthorEmail>
+    <AuthorName>David Pistorius</AuthorName>
+    <UserName>Personal Access Token</UserName>
+    <Password>cEVaZsDkuRq4LTgxohoIww6CbhwMoPyywxlpQrV4GINAnzbjEptDoi9SeG8KDyIkjDBdBh3GIBknMYbExvUJF8TXMyD1ljQEjPYvhE79JLo=</Password>
+    <SupplyUserCredentials>false</SupplyUserCredentials>
+  </ProviderProperties>
+</SourceControlConnection>
