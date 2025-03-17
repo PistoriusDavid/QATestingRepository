@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceControlConnection>
+  <Provider>GIT</Provider>
+  <RemoteMoniker>../$/</RemoteMoniker>
+  <ProviderProperties>
+    <Branch>QATestingBranch</Branch>
+    <ServerUrl>https://github.com/PistoriusDavid/QATestingRepository</ServerUrl>
+    <RepositoryFolder>D:\softwares\jasmineproject</RepositoryFolder>
+    <RepositoryDirectoryInfo>D:\softwares\jasmineproject</RepositoryDirectoryInfo>
+    <AuthorEmail>jasmine@contiem.com</AuthorEmail>
+    <AuthorName>Jasmine Rani</AuthorName>
+    <UserName></UserName>
+    <Password>fcgvxUyL26JNNOi/BFcb1cDHPrah4zhi0h0mboy3WeU=</Password>
+    <SupplyUserCredentials>false</SupplyUserCredentials>
+  </ProviderProperties>
+</SourceControlConnection>
