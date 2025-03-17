@@ -62,7 +62,9 @@
     <AutoNamePrefix></AutoNamePrefix>
     <IncludeTopicNameInTitle>false</IncludeTopicNameInTitle>
     <TopicEditorState>
-      <Attributes />
+      <Attributes>
+        <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
+      </Attributes>
     </TopicEditorState>
   </TopicsProjectPlugin>
   <WidgetsProjectPlugin>
