@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceControlConnection>
+  <Provider>GIT</Provider>
+  <RemoteMoniker>../../../../../../../../$/</RemoteMoniker>
+  <ProviderProperties>
+    <Branch>QATestingBranch</Branch>
+    <ServerUrl>https://github.com/PistoriusDavid/QATestingRepository</ServerUrl>
+    <RepositoryFolder>C:\Users\CPL\Documents\12638\123</RepositoryFolder>
+    <RepositoryDirectoryInfo>C:\Users\CPL\Documents\12638\123</RepositoryDirectoryInfo>
+    <AuthorEmail>mohana@contiem.com</AuthorEmail>
+    <AuthorName>Mohana Priya Dass</AuthorName>
+    <UserName>Mohana959595</UserName>
+    <Password>3xcdwvC4cR+YG30g38Xz2cMLqakXIRZc+i0IlPZl+X8=</Password>
+    <SupplyUserCredentials>false</SupplyUserCredentials>
+  </ProviderProperties>
+</SourceControlConnection>
