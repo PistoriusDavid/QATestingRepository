@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationWorkspace>
+  <RecentItems>
+    <RecentItem Key="1a291f60-aaee-4665-a4b1-e224f2f3f2b9.de" IsPinned="false" Type="Innovasys.ContentAuthoring.Topics.RecentTopic" Assembly="Innovasys.ContentAuthoring.Topics">
+      <HandlerName>TOPICS</HandlerName>
+      <Category>Topics</Category>
+    </RecentItem>
+    <RecentItem Key="e7013a37-b263-47f3-9fac-ef3afafe6a73.de" IsPinned="false" Type="Innovasys.ContentAuthoring.Topics.RecentTopic" Assembly="Innovasys.ContentAuthoring.Topics">
+      <HandlerName>TOPICS</HandlerName>
+      <Category>Topics</Category>
+    </RecentItem>
+    <RecentItem Key="e7013a37-b263-47f3-9fac-ef3afafe6a73.-" IsPinned="false" Type="Innovasys.ContentAuthoring.Topics.RecentTopic" Assembly="Innovasys.ContentAuthoring.Topics">
+      <HandlerName>TOPICS</HandlerName>
+      <Category>Topics</Category>
+    </RecentItem>
+  </RecentItems>
+  <ProjectProfileApplicationPlugin DesignTimeProjectProfile="6b2cfb6d-7340-49af-9cfb-d31ec7a4a0d5" DesignTimeProjectLocale="de" />
+</ApplicationWorkspace>
